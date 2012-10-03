@@ -1,0 +1,1 @@
+ntbackup backup "%USERProfile%" /J "FULL Backup" /L:S /M Normal /F "C:\backups\%username%-on-%computername%-Full-Backup.bkf"

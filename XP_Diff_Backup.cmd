@@ -1,0 +1,1 @@
+ntbackup backup "%USERProfile%" /J "Differential Backup" /L:S /M Differential /F "C:\Backups\%username%-on-%computername%-Differential.bkf"
